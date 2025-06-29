@@ -9,8 +9,42 @@ This project is a conversational AI chatbot built with:
 ## 🚀 How to Use
 
 1. Open the notebook: `AI_Chatbot.ipynb`
-2. Run all cells in order
-3. A Gradio chat interface will launch
+   # 🤖 AI Chatbot in Google Colab
+
+# 🤖 AI Chatbot in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_Vmu7_-LLO526gteIp9gjd0E4nEEIrgG?usp=sharing)
+
+This is an AI-powered chatbot built using **Microsoft DialoGPT**, **Hugging Face Transformers**, and **Gradio**. It runs entirely in **Google Colab**, requires no setup, and provides a simple conversational interface.
+
+---
+
+## 🧠 Features
+
+- Built with `transformers` and `gradio`
+- Uses `DialoGPT-medium` for natural, human-like responses
+- Gradio interface for easy chatting
+- Supports chat history (multi-turn memory)
+- "reset" keyword clears the conversation context
+
+---
+
+## 🚀 How to Use
+
+1. Click the **"Open in Colab"** badge above ⬆️
+2. Run all cells from top to bottom
+3. Use the chatbox UI that appears
+4. Type `reset` to clear the chat memory anytime
+
+---
+
+## 💬 Sample Conversation
+
+
+
+This is a chatbot built using DialoGPT and Gradio in Google Colab.
+3. Run all cells in order
+4. A Gradio chat interface will launch
 
 ## 🧠 Example Code
 
